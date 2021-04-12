@@ -143,7 +143,7 @@ const Navbar = () => {
                                             <a onClick={toggleNavbar} className="nav-link">Contact</a>
                                         </Link>
                                     </li>
-   
+{/*    
                                     <li className="nav-item">
                                         <Link href="#">
                                             <a onClick={e => e.preventDefault()} className="nav-link">
@@ -238,7 +238,7 @@ const Navbar = () => {
                                                 </Link>
                                             </li>
                                         </ul>
-                                    </li>
+                                    </li> */}
 
                                     {/* <li className="nav-item">
                                         <Link href="#" activeClassName="active">
